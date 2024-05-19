@@ -1,6 +1,9 @@
 .container{
     margin: auto;
 }
+body{
+    background:skyblue;
+}
 
 h1{
     font-size: 50px;
